@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dock-clock/static/css/main.3b507b1e.chunk.css",
+    "main.js": "/dock-clock/static/js/main.bc52e677.chunk.js",
+    "main.js.map": "/dock-clock/static/js/main.bc52e677.chunk.js.map",
+    "runtime-main.js": "/dock-clock/static/js/runtime-main.dcdcc67e.js",
+    "runtime-main.js.map": "/dock-clock/static/js/runtime-main.dcdcc67e.js.map",
+    "static/js/2.72e20336.chunk.js": "/dock-clock/static/js/2.72e20336.chunk.js",
+    "static/js/2.72e20336.chunk.js.map": "/dock-clock/static/js/2.72e20336.chunk.js.map",
+    "static/js/3.715d7b72.chunk.js": "/dock-clock/static/js/3.715d7b72.chunk.js",
+    "static/js/3.715d7b72.chunk.js.map": "/dock-clock/static/js/3.715d7b72.chunk.js.map",
+    "index.html": "/dock-clock/index.html",
+    "static/css/main.3b507b1e.chunk.css.map": "/dock-clock/static/css/main.3b507b1e.chunk.css.map",
+    "static/js/2.72e20336.chunk.js.LICENSE.txt": "/dock-clock/static/js/2.72e20336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcdcc67e.js",
+    "static/js/2.72e20336.chunk.js",
+    "static/css/main.3b507b1e.chunk.css",
+    "static/js/main.bc52e677.chunk.js"
+  ]
+}
